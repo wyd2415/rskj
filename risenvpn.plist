@@ -32,7 +32,7 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.risenvpn</string>
+               <string>com.fnst.smartwork</string>
                <key>bundle-version</key>
                <string>1.1.11</string>
                <key>kind</key>
